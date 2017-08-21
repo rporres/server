@@ -3,7 +3,7 @@ package main
 import (
 	"strconv"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"gopkg.in/src-d/go-errors.v0"
 )
 

@@ -1,6 +1,6 @@
 package: github.com/bblfsh/server
 import:
-- package: github.com/Sirupsen/logrus
+- package: github.com/sirupsen/logrus
   version: ^1.0.2
 - package: github.com/bblfsh/sdk
   version: 9db6b2ee9500857b54f8d40165dc92aba482aadf

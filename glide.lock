@@ -177,7 +177,7 @@ imports:
   version: 8dd4211afb5d08dbb39a533b9bb9e4b486351df6
 - name: github.com/seccomp/libseccomp-golang
   version: f6ec81daf48e41bf48b475afc7fe06a26bfb72d1
-- name: github.com/Sirupsen/logrus
+- name: github.com/sirupsen/logrus
   version: a3f95b5c423586578a4e099b11a46c2479628cac
 - name: github.com/syndtr/gocapability
   version: db04d3cc01c8b54962a58ec7e491717d06cfcc16

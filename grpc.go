@@ -3,7 +3,7 @@ package server
 import (
 	"net"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/bblfsh/sdk/protocol"
 	"github.com/bblfsh/server/runtime"
 	"google.golang.org/grpc"

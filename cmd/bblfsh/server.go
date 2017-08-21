@@ -10,7 +10,7 @@ import (
 	"github.com/bblfsh/server"
 	"github.com/bblfsh/server/runtime"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"srcd.works/go-errors.v0"
 )
 

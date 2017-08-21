@@ -12,7 +12,7 @@ import (
 	"github.com/bblfsh/server"
 	"github.com/bblfsh/server/runtime"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/bblfsh/sdk/protocol"
 	"google.golang.org/grpc"
 	"srcd.works/go-errors.v0"

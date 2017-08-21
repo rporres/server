@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/bblfsh/sdk/protocol"
 	"github.com/bblfsh/server/runtime"
 	"github.com/gin-gonic/gin"
